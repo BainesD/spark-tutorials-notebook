@@ -2,13 +2,4 @@ name: my-binder-env
 channels:
   - conda-forge
   - defaults
-dependencies:
-  - python=3.10
-  - numpy
-  - pandas
-  - pyspark
-  - pyarrow
-  - matplotlib
-  - ipykernel
-  - pip
 
